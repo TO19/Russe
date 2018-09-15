@@ -1,0 +1,24 @@
+
+----------------------------------------
+Historique de la partie de : ERT
+logon : Sat Sep 15 20:35:53 2018
+----------------------------------------
+
+Sat Sep 15 20:36:03 2018
+	début de partie : 50$
+
+Sat Sep 15 20:36:26 2018
+	nombre choisi : 0 noir
+
+Sat Sep 15 20:36:29 2018
+	mise choisie : 50$
+
+Sat Sep 15 20:36:36 2018
+	roulette : 0 noir
+
+Sat Sep 15 20:36:40 2018
+	nouveau solde : 150$
+
+Sat Sep 15 20:39:25 2018
+	nouvelle partie.
+
